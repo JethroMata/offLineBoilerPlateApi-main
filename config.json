@@ -7,7 +7,7 @@
      "database": "api_backend_boilerplate"
   },
   "secret": "jakegwapo123*", 
-  "Api_Key": "AIzaSyD00w_RQZ5lYxJnyNyLMEFGv7eUZ5sb_x0",
+  "Api_Key": "",
   "emailFrom": "info@node-mysql-signup-verification-api.com",
   "smtpOptions": {
       "host": "smtp.ethereal.email", 
